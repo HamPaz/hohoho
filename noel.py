@@ -3,4 +3,6 @@
 @author: toti.cavalcanti
 """
 def solution(num):
-    return "Ho!"
+    if num == 1:
+        return "Ho!"
+    return "Ho Ho!"
