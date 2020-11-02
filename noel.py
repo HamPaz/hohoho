@@ -2,5 +2,5 @@
 """
 @author: toti.cavalcanti
 """
-def solution():
+def solution(num):
     pass
