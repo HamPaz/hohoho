@@ -3,4 +3,4 @@
 @author: toti.cavalcanti
 """
 def solution(num):
-    pass
+    return "Ho!"
